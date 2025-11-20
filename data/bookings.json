@@ -1,0 +1,28 @@
+[
+    {
+        "destinationId": "everest-base-camp-trek",
+        "destinationName": "Everest Base Camp Trek",
+        "customerName": "Test User",
+        "email": "test@example.com",
+        "phone": "1234567890",
+        "date": "2026-03-15",
+        "guests": 2,
+        "message": "",
+        "id": "z7n65d2",
+        "status": "pending",
+        "createdAt": "2025-11-20T18:10:41.699Z"
+    },
+    {
+        "destinationId": "everest-base-camp-trek",
+        "destinationName": "Everest Base Camp Trek",
+        "customerName": "API Test User",
+        "email": "api@test.com",
+        "phone": "9876543210",
+        "date": "2025-05-01",
+        "guests": 3,
+        "message": "Testing via script",
+        "id": "cwrpr9l",
+        "status": "pending",
+        "createdAt": "2025-11-20T17:16:11.110Z"
+    }
+]

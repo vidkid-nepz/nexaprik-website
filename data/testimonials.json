@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "customerName": "Sarah Johnson",
+        "country": "USA",
+        "trekName": "Everest Base Camp Trek",
+        "trekSlug": "everest-base-camp",
+        "rating": 5,
+        "reviewText": "This was truly the adventure of a lifetime! Our guide was incredibly knowledgeable and made sure we were safe and comfortable throughout the trek. The views were absolutely breathtaking, and standing at Everest Base Camp was a dream come true. Highly recommend Nepal Adventure for anyone planning a Himalayan trek!",
+        "customerPhoto": "/images/testimonial-1.jpg",
+        "date": "2024-10-15",
+        "featured": true,
+        "status": "approved",
+        "createdAt": "2024-10-20"
+    },
+    {
+        "id": "2",
+        "customerName": "Marco Rossi",
+        "country": "Italy",
+        "trekName": "Annapurna Circuit Trek",
+        "trekSlug": "annapurna-circuit",
+        "rating": 5,
+        "reviewText": "Magnifico! The Annapurna Circuit exceeded all my expectations. The diversity of landscapes from lush valleys to high mountain passes was stunning. Our team was professional, friendly, and always ready to help. Best trekking experience I've ever had!",
+        "customerPhoto": "/images/testimonial-2.jpg",
+        "date": "2024-09-28",
+        "featured": true,
+        "status": "approved",
+        "createdAt": "2024-10-02"
+    },
+    {
+        "id": "3",
+        "customerName": "Yuki Tanaka",
+        "country": "Japan",
+        "trekName": "Langtang Valley Trek",
+        "trekSlug": "langtang-valley-trek",
+        "rating": 5,
+        "reviewText": "Perfect trek for those with limited time! The Langtang Valley is beautiful and the local Tamang culture is fascinating. Our guide spoke excellent English and shared so much knowledge about the region. The food at teahouses was surprisingly good. Will definitely come back for another trek!",
+        "customerPhoto": "/images/testimonial-3.jpg",
+        "date": "2024-11-05",
+        "featured": true,
+        "status": "approved",
+        "createdAt": "2024-11-08"
+    },
+    {
+        "id": "4",
+        "customerName": "Emma Williams",
+        "country": "Australia",
+        "trekName": "Everest Base Camp Trek",
+        "trekSlug": "everest-base-camp",
+        "rating": 5,
+        "reviewText": "Outstanding organization from start to finish! Everything was well-planned and executed perfectly. The accommodations were better than expected and our guide made the whole experience educational and enjoyable. I felt safe the entire time. Thank you Nepal Adventure team!",
+        "customerPhoto": "/images/testimonial-4.jpg",
+        "date": "2024-10-10",
+        "featured": false,
+        "status": "approved",
+        "createdAt": "2024-10-15"
+    },
+    {
+        "id": "5",
+        "customerName": "Hans Schmidt",
+        "country": "Germany",
+        "trekName": "Annapurna Circuit Trek",
+        "trekSlug": "annapurna-circuit",
+        "rating": 4,
+        "reviewText": "Sehr gut! Great trekking experience with wonderful mountain scenery. The Thorong La Pass was challenging but worth every step. Good value for money and reliable service. Would recommend to my friends!",
+        "customerPhoto": "/images/testimonial-5.jpg",
+        "date": "2024-09-15",
+        "featured": false,
+        "status": "approved",
+        "createdAt": "2024-09-20"
+    }
+]

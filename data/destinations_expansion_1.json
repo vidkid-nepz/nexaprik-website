@@ -1,0 +1,464 @@
+[
+    {
+        "id": "manaslu-circuit-trek",
+        "name": "Manaslu Circuit Trek",
+        "slug": "manaslu-circuit-trek",
+        "category": "trekking",
+        "location": "Manaslu Region",
+        "duration": "14-16 days",
+        "difficulty": "Challenging",
+        "altitude": "5,160m (Larke La Pass)",
+        "overview": "The Manaslu Circuit Trek is a stunning alternative to the Annapurna Circuit, offering a more remote and culturally rich experience. Circling the world's 8th highest peak, Mt. Manaslu (8,163m), this trek takes you through the restricted Nubri Valley, home to Tibetan-influenced culture and ancient monasteries.",
+        "highlights": [
+            "Cross the dramatic Larke La Pass (5,160m)",
+            "Views of Manaslu, Cheo Himal, and Himlung Himal",
+            "Rich Tibetan culture in Nubri and Tsum valleys",
+            "Less crowded than Everest or Annapurna",
+            "Diverse landscapes from subtropical jungle to alpine passes"
+        ],
+        "detailedDescription": "The Manaslu Circuit is rapidly becoming one of Nepal's premier tea-house treks. The journey begins in the humid lowlands of the Budi Gandaki river valley, winding through terraced fields and Gurung villages. As you ascend, the valley narrows into a steep gorge, and the culture shifts to Tibetan Buddhism. Villages like Lho and Samagaon offer incredible close-up views of Manaslu and opportunities to visit ancient monasteries. The crossing of Larke La Pass is the trek's climax, offering a panorama of peaks including Kang Guru, Himlung, and Annapurna II.",
+        "bestTimeToVisit": "March-May and September-November.",
+        "whatToBring": [
+            "Sleeping bag",
+            "Down jacket",
+            "Trekking poles",
+            "Water purification"
+        ],
+        "thingsToDo": [
+            "Visit Pungyen Gompa",
+            "Explore Birendra Lake",
+            "Cross Larke La"
+        ],
+        "accommodation": "Teahouses",
+        "transportation": "Bus/Jeep to Soti Khola/Machha Khola",
+        "localCuisine": "Dal Bhat, Tibetan bread, Thukpa",
+        "culturalTips": "Restricted area permit required. Respect local customs.",
+        "price": 1250,
+        "groupSize": "2-12",
+        "included": [
+            "Permits",
+            "Guide",
+            "Porter",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Drinks",
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/trek-manaslu.jpg",
+        "rating": 4.8,
+        "reviews": 150,
+        "featured": true
+    },
+    {
+        "id": "langtang-valley-trek",
+        "name": "Langtang Valley Trek",
+        "slug": "langtang-valley-trek",
+        "category": "trekking",
+        "location": "Langtang Region",
+        "duration": "7-10 days",
+        "difficulty": "Moderate",
+        "altitude": "3,870m (Kyanjin Gompa)",
+        "overview": "The Langtang Valley Trek is known as the 'Valley of Glaciers'. It is the closest major trekking region to Kathmandu, offering spectacular mountain views, rich Tamang culture, and relatively easy access.",
+        "highlights": [
+            "Kyanjin Gompa and cheese factory",
+            "Views of Langtang Lirung (7,227m)",
+            "Tamang Heritage Trail",
+            "Diverse flora and fauna in Langtang National Park",
+            "Climb Kyanjin Ri (4,773m) for panoramic views"
+        ],
+        "detailedDescription": "This trek takes you into the heart of the Langtang National Park. Starting from Syabrubesi, the trail follows the Langtang Khola river through lush rhododendron and bamboo forests, home to red pandas and langur monkeys. The valley opens up at Langtang village, surrounded by snow-capped peaks. Kyanjin Gompa is the final destination, a spiritual center with a famous cheese factory. Hikers can climb Kyanjin Ri or Tserko Ri for breathtaking 360-degree views.",
+        "bestTimeToVisit": "March-May and September-December.",
+        "whatToBring": [
+            "Warm clothes",
+            "Hiking boots",
+            "Camera"
+        ],
+        "thingsToDo": [
+            "Visit cheese factory",
+            "Hike to Tserko Ri",
+            "Spot Red Pandas"
+        ],
+        "accommodation": "Teahouses",
+        "transportation": "Bus/Jeep to Syabrubesi",
+        "localCuisine": "Yak cheese, local curd, Dal Bhat",
+        "culturalTips": "Support local rebuilding efforts.",
+        "price": 899,
+        "groupSize": "2-10",
+        "included": [
+            "Permits",
+            "Guide",
+            "Porter",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Drinks",
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/trek-langtang.jpg",
+        "rating": 4.7,
+        "reviews": 210,
+        "featured": true
+    },
+    {
+        "id": "mardi-himal-trek",
+        "name": "Mardi Himal Trek",
+        "slug": "mardi-himal-trek",
+        "category": "short-trek",
+        "location": "Annapurna Region",
+        "duration": "5-7 days",
+        "difficulty": "Moderate",
+        "altitude": "4,500m (Base Camp)",
+        "overview": "A hidden gem in the Annapurna region, the Mardi Himal Trek takes you along a ridge to the base of Mardi Himal and the iconic Machhapuchhre. It offers some of the best close-up mountain views with fewer crowds.",
+        "highlights": [
+            "Close-up view of Machhapuchhre (Fishtail)",
+            "Ridge walking with views on both sides",
+            "Quiet trails and pristine forests",
+            "Sunrise from Upper View Point",
+            "Short duration but high altitude experience"
+        ],
+        "detailedDescription": "The Mardi Himal Trek is a relatively new route that has gained popularity for its stunning views and short duration. The trail winds through enchanted rhododendron forests before emerging onto a ridge that offers commanding views of Annapurna South, Hiunchuli, and Machhapuchhre. The final push to Base Camp brings you right to the foot of the Fishtail mountain, a surreal experience.",
+        "bestTimeToVisit": "September-December and March-May.",
+        "whatToBring": [
+            "Warm layers",
+            "Crampons (winter)",
+            "Water bottle"
+        ],
+        "thingsToDo": [
+            "Sunrise at View Point",
+            "Forest bathing",
+            "Photography"
+        ],
+        "accommodation": "Teahouses",
+        "transportation": "Drive to Kande/Phedi from Pokhara",
+        "localCuisine": "Gurung bread, Dal Bhat",
+        "culturalTips": "Respect nature, leave no trace.",
+        "price": 650,
+        "groupSize": "2-8",
+        "included": [
+            "Permits",
+            "Guide",
+            "Porter",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Drinks",
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/trek-annapurna.jpg",
+        "rating": 4.8,
+        "reviews": 180,
+        "featured": true
+    },
+    {
+        "id": "ghorepani-poon-hill-trek",
+        "name": "Ghorepani Poon Hill Trek",
+        "slug": "ghorepani-poon-hill-trek",
+        "category": "short-trek",
+        "location": "Annapurna Region",
+        "duration": "4-5 days",
+        "difficulty": "Easy",
+        "altitude": "3,210m (Poon Hill)",
+        "overview": "The classic introductory trek in Nepal, famous for its sunrise views over the Annapurna and Dhaulagiri ranges. It passes through charming Gurung villages and the world's largest rhododendron forests.",
+        "highlights": [
+            "Sunrise from Poon Hill (3,210m)",
+            "Panoramic views of Dhaulagiri and Annapurna",
+            "Ghandruk Gurung village",
+            "Rhododendron forests (bloom in spring)",
+            "Stone staircases of Ulleri"
+        ],
+        "detailedDescription": "Perfect for beginners and families, this trek offers a taste of the Himalayas without extreme altitude or duration. The trail passes through Tikhedhunga and Ulleri, climbing thousands of stone steps to reach Ghorepani. An early morning hike to Poon Hill rewards trekkers with one of the best sunrises in the world, illuminating over 20 peaks. The return journey through Ghandruk offers cultural immersion in a traditional Gurung village.",
+        "bestTimeToVisit": "All year round, best in Spring/Autumn.",
+        "whatToBring": [
+            "Comfortable shoes",
+            "Rain gear",
+            "Camera"
+        ],
+        "thingsToDo": [
+            "Sunrise view",
+            "Visit Gurung Museum",
+            "Try traditional dress"
+        ],
+        "accommodation": "Comfortable Teahouses",
+        "transportation": "Drive to Nayapul from Pokhara",
+        "localCuisine": "Gurung bread, Dal Bhat",
+        "culturalTips": "Greet with Namaste.",
+        "price": 450,
+        "groupSize": "2-15",
+        "included": [
+            "Permits",
+            "Guide",
+            "Porter",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Drinks",
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/trek-annapurna.jpg",
+        "rating": 4.9,
+        "reviews": 500,
+        "featured": true
+    },
+    {
+        "id": "island-peak-climbing",
+        "name": "Island Peak Climbing",
+        "slug": "island-peak-climbing",
+        "category": "peak-climbing",
+        "location": "Khumbu Region",
+        "duration": "16-19 days",
+        "difficulty": "Strenuous",
+        "altitude": "6,189m",
+        "overview": "Island Peak (Imja Tse) is the most popular trekking peak in Nepal. It offers a challenging climb for beginners in mountaineering, combining a classic Everest Base Camp trek with a high-altitude summit push.",
+        "highlights": [
+            "Summit a 6,000m peak",
+            "Everest Base Camp and Kala Patthar acclimatization",
+            "Crossing Kongma La Pass (optional)",
+            "Views of Lhotse, Nuptse, and Makalu",
+            "Glacier travel and basic climbing skills"
+        ],
+        "detailedDescription": "The expedition starts with the standard trek to Everest Base Camp for acclimatization. From Dingboche, the trail heads to Chhukung and Island Peak Base Camp. The climb involves rock scrambling, glacier crossing with crampons, and a final steep snow ridge to the summit. The view from the top is unparalleled, surrounded by 8,000m giants.",
+        "bestTimeToVisit": "April-May and October-November.",
+        "whatToBring": [
+            "Climbing gear (boots, harness, crampons, axe)",
+            "Down suit"
+        ],
+        "thingsToDo": [
+            "Summit climb",
+            "Glacier training",
+            "Visit EBC"
+        ],
+        "accommodation": "Teahouses + Tented Camp",
+        "transportation": "Flight to Lukla",
+        "localCuisine": "Sherpa stew, high energy food",
+        "culturalTips": "Respect the mountain gods.",
+        "price": 2400,
+        "groupSize": "2-8",
+        "included": [
+            "Permits",
+            "Climbing Guide",
+            "Group Gear",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Personal Gear",
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/hero-everest.jpg",
+        "rating": 4.8,
+        "reviews": 120,
+        "featured": false
+    },
+    {
+        "id": "mera-peak-climbing",
+        "name": "Mera Peak Climbing",
+        "slug": "mera-peak-climbing",
+        "category": "peak-climbing",
+        "location": "Makalu Barun National Park",
+        "duration": "18-20 days",
+        "difficulty": "Strenuous",
+        "altitude": "6,476m",
+        "overview": "Mera Peak is the highest trekking peak in Nepal. Despite its height, it is technically less demanding than Island Peak, making it an ideal first 6,000m peak for fit trekkers.",
+        "highlights": [
+            "Highest trekking peak (6,476m)",
+            "View of 5 8,000m peaks (Everest, Lhotse, Cho Oyu, Makalu, Kanchenjunga)",
+            "Remote Hinku Valley trek",
+            "Pristine wilderness",
+            "High altitude camping experience"
+        ],
+        "detailedDescription": "The trek to Mera Peak takes you through the remote and wild Hinku Valley. The trail passes through dense forests and high alpine meadows. The climb itself is a long, steady ascent on snow slopes, requiring basic crampon and ice axe skills but no technical rock climbing. The summit view is often considered the best in the Himalayas.",
+        "bestTimeToVisit": "October-November and April-May.",
+        "whatToBring": [
+            "Climbing gear",
+            "Warmest clothes"
+        ],
+        "thingsToDo": [
+            "Summit climb",
+            "Wilderness trekking"
+        ],
+        "accommodation": "Teahouses + Tented Camp",
+        "transportation": "Flight to Lukla",
+        "localCuisine": "Simple camp food",
+        "culturalTips": "Leave no trace.",
+        "price": 2600,
+        "groupSize": "2-8",
+        "included": [
+            "Permits",
+            "Climbing Guide",
+            "Tents",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Personal Gear",
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/hero-everest.jpg",
+        "rating": 4.9,
+        "reviews": 95,
+        "featured": false
+    },
+    {
+        "id": "chitwan-jungle-safari",
+        "name": "Chitwan Jungle Safari",
+        "slug": "chitwan-jungle-safari",
+        "category": "tour",
+        "location": "Chitwan National Park",
+        "duration": "3 days",
+        "difficulty": "Easy",
+        "altitude": "415m",
+        "overview": "Explore the lush jungles of southern Nepal, home to the endangered One-Horned Rhinoceros and Royal Bengal Tiger. Chitwan National Park is a UNESCO World Heritage site offering a stark contrast to the Himalayan mountains.",
+        "highlights": [
+            "Jeep Safari to spot Rhinos and Tigers",
+            "Canoe ride on Rapti River",
+            "Tharu Cultural Dance",
+            "Bird watching (500+ species)",
+            "Elephant Breeding Center"
+        ],
+        "detailedDescription": "A 3-day package in Chitwan is the perfect addition to any trek. Activities include a jeep safari deep into the jungle to track wildlife, a peaceful canoe ride to see crocodiles and water birds, and a jungle walk with experienced naturalists. You'll also visit a Tharu village to learn about the indigenous culture of the Terai region.",
+        "bestTimeToVisit": "October-March (pleasant). April-June (hot but good for tigers).",
+        "whatToBring": [
+            "Light clothes",
+            "Binoculars",
+            "Insect repellent",
+            "Sun hat"
+        ],
+        "thingsToDo": [
+            "Safari",
+            "Canoeing",
+            "Jungle Walk",
+            "Tharu Village Tour"
+        ],
+        "accommodation": "Jungle Resort/Hotel",
+        "transportation": "Flight or Bus from Kathmandu/Pokhara",
+        "localCuisine": "Tharu food (snails, sticky rice), Nepali set",
+        "culturalTips": "Respect wildlife distance.",
+        "price": 250,
+        "groupSize": "1-20",
+        "included": [
+            "Park fees",
+            "Guide",
+            "All activities",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Bar bills",
+            "Tips",
+            "Transport to Chitwan"
+        ],
+        "featuredImage": "/images/hero-culture.jpg",
+        "rating": 4.6,
+        "reviews": 300,
+        "featured": true
+    },
+    {
+        "id": "lumbini-buddhist-circuit",
+        "name": "Lumbini Buddhist Circuit",
+        "slug": "lumbini-buddhist-circuit",
+        "category": "tour",
+        "location": "Lumbini",
+        "duration": "2-3 days",
+        "difficulty": "Easy",
+        "altitude": "150m",
+        "overview": "Visit the birthplace of Lord Buddha, a UNESCO World Heritage site and one of the holiest places in the world. Explore the Maya Devi Temple, Ashoka Pillar, and various international monasteries.",
+        "highlights": [
+            "Birthplace of Buddha (Maya Devi Temple)",
+            "Ashoka Pillar (3rd Century BC)",
+            "World Peace Pagoda",
+            "Monasteries from different countries",
+            "Meditation and spiritual peace"
+        ],
+        "detailedDescription": "Lumbini is a spiritual sanctuary. The Sacred Garden houses the Maya Devi Temple, marking the exact spot where Buddha was born. The Ashoka Pillar stands as ancient proof of the site's significance. Visitors can explore the Monastic Zone, where countries like China, Germany, Thailand, and Myanmar have built stunning monasteries in their traditional architectural styles.",
+        "bestTimeToVisit": "October-March (avoid summer heat).",
+        "whatToBring": [
+            "Modest clothing",
+            "Mosquito repellent"
+        ],
+        "thingsToDo": [
+            "Meditation",
+            "Monastery hopping",
+            "Rickshaw ride"
+        ],
+        "accommodation": "Hotels in Lumbini",
+        "transportation": "Flight to Bhairahawa or Bus",
+        "localCuisine": "Indian/Nepali mix",
+        "culturalTips": "Remove shoes at temples. Be quiet and respectful.",
+        "price": 200,
+        "groupSize": "1-15",
+        "included": [
+            "Guide",
+            "Entrance fees",
+            "Rickshaw tour"
+        ],
+        "excluded": [
+            "Transport to Lumbini",
+            "Meals",
+            "Accommodation"
+        ],
+        "featuredImage": "/images/hero-culture.jpg",
+        "rating": 4.5,
+        "reviews": 180,
+        "featured": false
+    },
+    {
+        "id": "kathmandu-world-heritage-tour",
+        "name": "Kathmandu World Heritage Tour",
+        "slug": "kathmandu-world-heritage-tour",
+        "category": "tour",
+        "location": "Kathmandu Valley",
+        "duration": "1 day",
+        "difficulty": "Easy",
+        "altitude": "1,400m",
+        "overview": "A comprehensive day tour exploring the UNESCO World Heritage sites of Kathmandu Valley. Visit ancient palaces, stupas, and temples that showcase the rich history, art, and culture of Nepal.",
+        "highlights": [
+            "Swayambhunath (Monkey Temple)",
+            "Boudhanath Stupa (Largest Mandala)",
+            "Pashupatinath Temple (Hindu Cremation site)",
+            "Kathmandu Durbar Square (Living Goddess)",
+            "Newari architecture and art"
+        ],
+        "detailedDescription": "This tour takes you to the spiritual and historical heart of Nepal. Start with panoramic views from Swayambhunath, then witness the devotion at Pashupatinath on the banks of the Bagmati River. Circumambulate the massive Boudhanath Stupa with Tibetan pilgrims. Finally, explore the medieval palace complex of Kathmandu Durbar Square, home to the Kumari (Living Goddess).",
+        "bestTimeToVisit": "All year round.",
+        "whatToBring": [
+            "Camera",
+            "Water",
+            "Walking shoes"
+        ],
+        "thingsToDo": [
+            "Sightseeing",
+            "Photography",
+            "Shopping"
+        ],
+        "accommodation": "N/A",
+        "transportation": "Private Car",
+        "localCuisine": "Newari Khaja set, Momo",
+        "culturalTips": "Dress modestly. No leather at Pashupatinath.",
+        "price": 90,
+        "groupSize": "1-10",
+        "included": [
+            "Private Car",
+            "Guide",
+            "Entrance Fees"
+        ],
+        "excluded": [
+            "Meals",
+            "Tips"
+        ],
+        "featuredImage": "/images/hero-culture.jpg",
+        "rating": 4.7,
+        "reviews": 450,
+        "featured": true
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "id": "1",
+        "slug": "everest-base-camp",
+        "name": "Everest Base Camp Trek",
+        "region": "Everest",
+        "activity": "Trekking",
+        "duration": 14,
+        "difficulty": "challenging",
+        "maxAltitude": 5364,
+        "bestSeasons": [
+            "Spring",
+            "Autumn"
+        ],
+        "price": 1299,
+        "groupSize": {
+            "min": 1,
+            "max": 12
+        },
+        "overview": "The iconic Everest Base Camp Trek is the adventure of a lifetime, taking you through stunning Sherpa villages, across suspension bridges, and up to the base of the world's highest mountain. Experience breathtaking views of Everest, Lhotse, Nuptse, and Ama Dablam.",
+        "highlights": [
+            "Stand at the base of Mount Everest (5,364m)",
+            "Panoramic Himalayan views from Kala Patthar",
+            "Visit Tengboche Monastery, the spiritual heart of the Khumbu",
+            "Experience authentic Sherpa culture and hospitality",
+            "Trek through Sagarmatha National Park (UNESCO World Heritage)",
+            "Fly into Lukla, one of the world's most scenic airports"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Fly to Lukla, Trek to Phakding",
+                "description": "Early morning scenic flight from Kathmandu to Lukla (2,840m). Begin trekking along the Dudh Koshi river to Phakding.",
+                "altitude": 2610,
+                "distance": "8 km",
+                "duration": "3-4 hours"
+            },
+            {
+                "day": 2,
+                "title": "Phakding to Namche Bazaar",
+                "description": "Cross suspension bridges and enter Sagarmatha National Park. Challenging uphill climb to the bustling Sherpa town of Namche Bazaar.",
+                "altitude": 3440,
+                "distance": "11 km",
+                "duration": "5-6 hours"
+            }
+        ],
+        "costIncludes": [
+            "Airport transfers",
+            "Kathmandu to Lukla round-trip flight",
+            "Teahouse accommodation during trek",
+            "All meals (breakfast, lunch, dinner) during trek",
+            "Experienced English-speaking guide",
+            "Porter service (1 porter for 2 trekkers)",
+            "TIMS card and National Park permits",
+            "First aid medical kit",
+            "Government taxes"
+        ],
+        "costExcludes": [
+            "International airfare",
+            "Nepal visa fee",
+            "Meals in Kathmandu",
+            "Travel insurance",
+            "Personal expenses and tips",
+            "Emergency evacuation",
+            "Extra night accommodation in Kathmandu"
+        ],
+        "images": [
+            "/images/trek-everest-1.jpg",
+            "/images/trek-everest-2.jpg"
+        ],
+        "featuredImage": "/images/hero-everest.jpg",
+        "rating": 4.9,
+        "reviewCount": 287,
+        "featured": true,
+        "popular": true,
+        "metaTitle": "Everest Base Camp Trek - 14 Days Himalayan Adventure",
+        "metaDescription": "Join the iconic 14-day Everest Base Camp Trek. Experience breathtaking Himalayan views, Sherpa culture, and stand at the base of the world's highest peak.",
+        "publishedAt": "2024-01-15",
+        "status": "published"
+    },
+    {
+        "id": "2",
+        "slug": "annapurna-circuit",
+        "name": "Annapurna Circuit Trek",
+        "region": "Annapurna",
+        "activity": "Trekking",
+        "duration": 16,
+        "difficulty": "challenging",
+        "maxAltitude": 5416,
+        "bestSeasons": [
+            "Spring",
+            "Autumn"
+        ],
+        "price": 1199,
+        "groupSize": {
+            "min": 2,
+            "max": 14
+        },
+        "overview": "The Annapurna Circuit is one of the world's classic treks, circumnavigating the Annapurna Massif through diverse landscapes from subtropical forests to high-altitude deserts. Cross the challenging Thorong La Pass at 5,416m and experience incredible cultural diversity.",
+        "highlights": [
+            "Cross Thorong La Pass (5,416m), one of the highest trekking passes",
+            "360° views of Annapurna, Dhaulagiri, and Manaslu ranges",
+            "Visit the sacred Muktinath Temple",
+            "Trek through diverse climate zones and landscapes",
+            "Experience Gurung, Thakali, and Tibetan cultures",
+            "Natural hot springs in Tatopani"
+        ],
+        "itinerary": [],
+        "costIncludes": [
+            "All ground transportation",
+            "Teahouse accommodation",
+            "Three meals a day during trek",
+            "Experienced trekking guide",
+            "Porter service",
+            "ACAP and TIMS permits",
+            "First aid kit"
+        ],
+        "costExcludes": [
+            "International flights",
+            "Nepal visa",
+            "Meals in cities",
+            "Travel and rescue insurance",
+            "Personal expenses",
+            "Tips for guide and porter"
+        ],
+        "images": [
+            "/images/trek-annapurna.jpg"
+        ],
+        "featuredImage": "/images/trek-annapurna.jpg",
+        "rating": 4.8,
+        "reviewCount": 198,
+        "featured": true,
+        "popular": true,
+        "metaTitle": "Annapurna Circuit Trek - 16 Days Complete Journey",
+        "metaDescription": "Experience the legendary Annapurna Circuit Trek. Cross Thorong La Pass, witness diverse landscapes, and immerse in Himalayan cultures.",
+        "publishedAt": "2024-01-20",
+        "status": "published"
+    },
+    {
+        "id": "3",
+        "slug": "langtang-valley-trek",
+        "name": "Langtang Valley Trek",
+        "region": "Langtang",
+        "activity": "Trekking",
+        "duration": 10,
+        "difficulty": "moderate",
+        "maxAltitude": 4984,
+        "bestSeasons": [
+            "Spring",
+            "Autumn",
+            "Winter"
+        ],
+        "price": 799,
+        "groupSize": {
+            "min": 1,
+            "max": 12
+        },
+        "overview": "The Langtang Valley Trek offers stunning mountain scenery, authentic Tamang culture, and a chance to explore the beautiful Langtang National Park. Often called the 'valley of glaciers', this trek is perfect for those seeking a shorter but equally rewarding Himalayan adventure.",
+        "highlights": [
+            "Spectacular views of Langtang Lirung (7,227m)",
+            "Explore Kyanjin Gompa monastery and cheese factory",
+            "Trek through rhododendron and bamboo forests",
+            "Experience Tamang heritage and hospitality",
+            "Optional climb to Tserko Ri (4,984m) for panoramic views",
+            "Relatively less crowded than Everest and Annapurna"
+        ],
+        "itinerary": [],
+        "costIncludes": [
+            "Kathmandu to trek starting point transport",
+            "Teahouse accommodation",
+            "All meals during trek",
+            "Experienced guide",
+            "Porter (2:1 ratio)",
+            "Langtang National Park permit and TIMS",
+            "First aid supplies"
+        ],
+        "costExcludes": [
+            "International airfare",
+            "Nepal entry visa",
+            "Kathmandu accommodation and meals",
+            "Travel insurance",
+            "Personal gear and expenses",
+            "Tips and gratuities"
+        ],
+        "images": [
+            "/images/trek-langtang.jpg"
+        ],
+        "featuredImage": "/images/trek-langtang.jpg",
+        "rating": 4.7,
+        "reviewCount": 142,
+        "featured": true,
+        "popular": true,
+        "metaTitle": "Langtang Valley Trek - 10 Days Himalayan Experience",
+        "metaDescription": "Discover the beautiful Langtang Valley in 10 days. Experience Tamang culture, stunning mountain views, and pristine nature close to Kathmandu.",
+        "publishedAt": "2024-02-01",
+        "status": "published"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "id": "trekking",
+        "name": "Trekking",
+        "slug": "trekking",
+        "icon": "🥾",
+        "description": "Embark on unforgettable journeys through the Himalayas",
+        "detailedDescription": "Experience the ultimate adventure through Nepal's stunning mountain landscapes. Our expertly crafted trekking expeditions take you deep into the heart of the Himalayas, from lush rhododendron forests to high-altitude passes adorned with prayer flags. Whether you're a seasoned trekker or a first-time adventurer, we offer routes suited to all experience levels.",
+        "features": [
+            "Expert certified guides with extensive mountain experience",
+            "Small group sizes for personalized attention",
+            "Comfortable teahouse and lodge accommodations",
+            "All necessary permits and paperwork handled",
+            "Safety equipment and emergency evacuation insurance",
+            "Flexible itineraries to match your pace"
+        ],
+        "popularPackages": [
+            "Everest Base Camp Trek",
+            "Annapurna Circuit",
+            "Langtang Valley Trek",
+            "Manaslu Circuit Trek"
+        ],
+        "image": "/images/trek-annapurna.jpg",
+        "bestSeasons": [
+            "Spring (March-May)",
+            "Autumn (September-November)"
+        ],
+        "difficultyRange": "Easy to Strenuous"
+    },
+    {
+        "id": "cultural-tours",
+        "name": "Cultural Tours",
+        "slug": "cultural-tours",
+        "icon": "🏛️",
+        "description": "Immerse yourself in Nepal's rich heritage and traditions",
+        "detailedDescription": "Discover the cultural treasures of Nepal with our carefully curated tours. Explore ancient temples, sacred monasteries, and UNESCO World Heritage sites while experiencing the warmth of Nepalese hospitality. Our cultural tours blend history, spirituality, and local traditions for an enriching journey through time.",
+        "features": [
+            "UNESCO World Heritage site visits",
+            "Expert cultural guides and historians",
+            "Traditional Newari cuisine experiences",
+            "Monastery stays and meditation sessions",
+            "Local artisan workshops and demonstrations",
+            "Comfortable heritage hotels"
+        ],
+        "popularPackages": [
+            "Kathmandu Valley Culture Tour",
+            "Kathmandu-Pokhara-Chitwan Tour",
+            "Lumbini Pilgrimage Tour",
+            "Tibet Border Cultural Experience"
+        ],
+        "image": "/images/cultural-tour.jpg",
+        "bestSeasons": [
+            "Year-round"
+        ],
+        "difficultyRange": "Easy"
+    },
+    {
+        "id": "peak-climbing",
+        "name": "Peak Climbing",
+        "slug": "peak-climbing",
+        "icon": "⛰️",
+        "description": "Summit the world's most spectacular peaks",
+        "detailedDescription": "Take your mountain adventure to new heights with our peak climbing expeditions. Nepal offers numerous trekking peaks ranging from 5,000m to 6,500m, perfect for climbers looking to experience high-altitude mountaineering. Our experienced climbing sherpas and comprehensive safety protocols ensure your summit attempt is both thrilling and safe.",
+        "features": [
+            "Professional climbing guides and sherpas",
+            "All technical climbing equipment provided",
+            "Pre-climb training and acclimatization",
+            "High-altitude camping and meals",
+            "Comprehensive climbing permits",
+            "Emergency rescue and insurance coverage"
+        ],
+        "popularPackages": [
+            "Island Peak Climbing (6,189m)",
+            "Mera Peak Expedition (6,476m)",
+            "Lobuche East Peak (6,119m)",
+            "Pisang Peak Climbing (6,091m)"
+        ],
+        "image": "/images/hero-everest.jpg",
+        "bestSeasons": [
+            "Spring (April-May)",
+            "Autumn (October-November)"
+        ],
+        "difficultyRange": "Challenging to Extreme"
+    },
+    {
+        "id": "expeditions",
+        "name": "Expeditions",
+        "slug": "expeditions",
+        "icon": "🏔️",
+        "description": "Conquer the world's highest summits",
+        "detailedDescription": "For the ultimate mountaineering challenge, join our expeditions to the world's highest peaks. From Mount Everest to Cho Oyu, our comprehensive expedition packages include everything needed for a successful summit bid. With decades of Himalayan experience, our team provides world-class logistics, safety management, and summit support.",
+        "features": [
+            "Western guide and Sherpa support team",
+            "Basecamp to summit logistics",
+            "Oxygen systems and medical equipment",
+            "Satellite communication devices",
+            "Weather forecasting and route fixing",
+            "Comprehensive expedition insurance"
+        ],
+        "popularPackages": [
+            "Mount Everest Expedition (8,849m)",
+            "Cho Oyu Expedition (8,188m)",
+            "Manaslu Expedition (8,163m)",
+            "Ama Dablam Expedition (6,812m)"
+        ],
+        "image": "/images/trek-langtang.jpg",
+        "bestSeasons": [
+            "Spring (April-May)",
+            "Autumn (September-October)"
+        ],
+        "difficultyRange": "Extreme"
+    }
+]

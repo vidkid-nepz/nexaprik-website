@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "slug": "everest-base-camp-guide",
+        "title": "Complete Guide to Everest Base Camp Trek 2024",
+        "excerpt": "Everything you need to know about trekking to Everest Base Camp, including preparation, best time to visit, and what to expect.",
+        "content": "The Everest Base Camp trek is one of the most iconic adventures in the world...",
+        "featuredImage": "/images/hero-everest.jpg",
+        "category": "Trekking Guides",
+        "tags": [
+            "Everest",
+            "Trekking",
+            "Guide"
+        ],
+        "author": {
+            "name": "Pemba Sherpa",
+            "avatar": "/images/author-1.jpg"
+        },
+        "publishedAt": "2024-10-15",
+        "status": "published",
+        "readTime": 12
+    },
+    {
+        "id": "2",
+        "slug": "packing-list-nepal-trek",
+        "title": "Essential Packing List for Nepal Trekking",
+        "excerpt": "A comprehensive guide to what you should pack for your Himalayan trekking adventure.",
+        "content": "Proper packing is crucial for a successful trek in Nepal...",
+        "featuredImage": "/images/trek-langtang.jpg",
+        "category": "Travel Tips",
+        "tags": [
+            "Packing",
+            "Tips",
+            "Preparation"
+        ],
+        "author": {
+            "name": "Sarah Williams",
+            "avatar": "/images/author-2.jpg"
+        },
+        "publishedAt": "2024-11-01",
+        "status": "published",
+        "readTime": 8
+    }
+]

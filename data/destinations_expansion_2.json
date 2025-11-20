@@ -1,0 +1,449 @@
+[
+    {
+        "id": "bardiya-national-park-safari",
+        "name": "Bardiya National Park Safari",
+        "slug": "bardiya-national-park-safari",
+        "category": "tour",
+        "location": "Bardiya (Far West Nepal)",
+        "duration": "4 days",
+        "difficulty": "Easy",
+        "altitude": "152m",
+        "overview": "Experience the wild west of Nepal in Bardiya National Park, the largest and most undisturbed national park in the Terai. It offers the best chance to see the Royal Bengal Tiger in the wild, along with wild elephants and dolphins.",
+        "highlights": [
+            "High probability of spotting Royal Bengal Tigers",
+            "Jeep and walking safaris",
+            "Karnali River rafting/boating (Dolphin watching)",
+            "Tharu culture in remote villages",
+            "Pristine, uncrowded wilderness"
+        ],
+        "detailedDescription": "Bardiya is for the true wildlife enthusiast. Far from the crowds of Chitwan, it offers a raw and authentic jungle experience. The park is home to a significant population of tigers, wild elephants, and the one-horned rhino. Activities include full-day jeep safaris, jungle walks with expert trackers, and boating on the Karnali River where you might spot the rare Gangetic dolphin. The Tharu communities here have preserved their traditional lifestyle, adding a rich cultural dimension to the trip.",
+        "bestTimeToVisit": "October-June. March-May is best for tiger sightings.",
+        "whatToBring": [
+            "Neutral colored clothes",
+            "Binoculars",
+            "Sun protection"
+        ],
+        "thingsToDo": [
+            "Tiger tracking",
+            "River boating",
+            "Bird watching",
+            "Village tour"
+        ],
+        "accommodation": "Jungle Lodges",
+        "transportation": "Flight to Nepalgunj + Drive",
+        "localCuisine": "Tharu specialties, fish",
+        "culturalTips": "Respect the silence of the jungle.",
+        "price": 450,
+        "groupSize": "1-12",
+        "included": [
+            "Park fees",
+            "Guide",
+            "All meals",
+            "Accommodation",
+            "Activities"
+        ],
+        "excluded": [
+            "Flights",
+            "Tips",
+            "Bar bills"
+        ],
+        "featuredImage": "/images/hero-culture.jpg",
+        "rating": 4.8,
+        "reviews": 120,
+        "featured": true
+    },
+    {
+        "id": "bhaktapur-patan-tour",
+        "name": "Bhaktapur & Patan Tour",
+        "slug": "bhaktapur-patan-tour",
+        "category": "tour",
+        "location": "Kathmandu Valley",
+        "duration": "1 day",
+        "difficulty": "Easy",
+        "altitude": "1,400m",
+        "overview": "Explore the medieval city-states of Bhaktapur and Patan (Lalitpur). Known for their exquisite art, architecture, and well-preserved Durbar Squares, these cities are living museums of Newari culture.",
+        "highlights": [
+            "Bhaktapur Durbar Square (55 Window Palace)",
+            "Nyatapola Temple (Tallest pagoda)",
+            "Patan Durbar Square (City of Fine Arts)",
+            "Krishna Mandir",
+            "Pottery Square and traditional crafts"
+        ],
+        "detailedDescription": "Step back in time as you wander the brick-paved alleys of Bhaktapur, the 'City of Devotees'. Marvel at the 55-Window Palace and the towering Nyatapola Temple. Watch potters at work in Pottery Square. Then, visit Patan, the 'City of Fine Arts', famous for its metalwork and stone carvings. The Patan Durbar Square is a masterpiece of Shikhar-style architecture, and the Patan Museum is one of the best in South Asia.",
+        "bestTimeToVisit": "All year round.",
+        "whatToBring": [
+            "Walking shoes",
+            "Camera"
+        ],
+        "thingsToDo": [
+            "Sightseeing",
+            "Pottery workshop",
+            "Museum visit"
+        ],
+        "accommodation": "N/A",
+        "transportation": "Private Car",
+        "localCuisine": "Juju Dhau (King Curd) in Bhaktapur",
+        "culturalTips": "Entry fees help preservation.",
+        "price": 80,
+        "groupSize": "1-10",
+        "included": [
+            "Car",
+            "Guide",
+            "Entrance Fees"
+        ],
+        "excluded": [
+            "Meals",
+            "Tips"
+        ],
+        "featuredImage": "/images/hero-culture.jpg",
+        "rating": 4.7,
+        "reviews": 350,
+        "featured": false
+    },
+    {
+        "id": "rara-lake-trek",
+        "name": "Rara Lake Trek",
+        "slug": "rara-lake-trek",
+        "category": "trekking",
+        "location": "Mugu (Far West)",
+        "duration": "10-12 days",
+        "difficulty": "Moderate",
+        "altitude": "2,990m",
+        "overview": "Journey to the 'Queen of Lakes', Rara Lake, the largest and deepest freshwater lake in Nepal. Located in the remote Far West, this trek offers solitude, pristine nature, and a glimpse into a rustic way of life.",
+        "highlights": [
+            "Rara Lake (changeable colors)",
+            "Rara National Park wilderness",
+            "Remote villages of Mugu",
+            "Sinja Valley (historical origin of Nepali language)",
+            "Murma Top viewpoint"
+        ],
+        "detailedDescription": "The trek to Rara is a journey into the wild. Starting from Jumla or Talcha, the trail passes through pine, spruce, and juniper forests. Rara Lake itself is mesmerizing, changing colors throughout the day. It is surrounded by green hills and snow-capped peaks. The area is sparsely populated, offering a true wilderness experience. A hike to Murma Top offers a panoramic view of the lake and the distant mountains.",
+        "bestTimeToVisit": "March-May and September-November.",
+        "whatToBring": [
+            "Camping gear (sometimes needed)",
+            "Warm clothes"
+        ],
+        "thingsToDo": [
+            "Boating",
+            "Horse riding",
+            "Hiking around lake"
+        ],
+        "accommodation": "Teahouses/Tents",
+        "transportation": "Flights (Kathmandu-Nepalgunj-Talcha)",
+        "localCuisine": "Local organic food, red rice",
+        "culturalTips": "Very remote area, expect basic facilities.",
+        "price": 1400,
+        "groupSize": "2-10",
+        "included": [
+            "Permits",
+            "Guide",
+            "Meals",
+            "Accommodation",
+            "Flights"
+        ],
+        "excluded": [
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/trek-langtang.jpg",
+        "rating": 4.6,
+        "reviews": 80,
+        "featured": true
+    },
+    {
+        "id": "dolpo-circuit-trek",
+        "name": "Dolpo Circuit Trek",
+        "slug": "dolpo-circuit-trek",
+        "category": "trekking",
+        "location": "Dolpo (Mid-West)",
+        "duration": "18-22 days",
+        "difficulty": "Challenging",
+        "altitude": "5,350m (Numa La)",
+        "overview": "Explore the hidden land of Dolpo, popularized by the movie 'Himalaya' (Caravan). This restricted area trek takes you to Phoksundo Lake, Shey Gompa, and high passes, offering a glimpse into the ancient Bon Po religion.",
+        "highlights": [
+            "Phoksundo Lake (deepest in Nepal)",
+            "Shey Gompa (Crystal Mountain)",
+            "Ancient Bon Po culture",
+            "High passes (Numa La, Baga La)",
+            "Remote and rugged landscapes"
+        ],
+        "detailedDescription": "Upper Dolpo is a high-altitude desert, culturally Tibetan and geographically isolated. The trek is physically demanding, crossing two passes over 5,000m. The highlight is the turquoise Phoksundo Lake, which has no aquatic life due to its unique chemical composition. You'll visit Shey Gompa, a spiritual center, and witness the yak caravans that still trade salt and grain.",
+        "bestTimeToVisit": "Spring and Autumn. Monsoon is also possible (rain shadow).",
+        "whatToBring": [
+            "Camping gear",
+            "Supplies (remote area)"
+        ],
+        "thingsToDo": [
+            "Visit monasteries",
+            "Lake photography",
+            "Wildlife spotting (Blue Sheep, Snow Leopard)"
+        ],
+        "accommodation": "Camping (mostly)",
+        "transportation": "Flights (Kathmandu-Nepalgunj-Juphal)",
+        "localCuisine": "Tibetan staples",
+        "culturalTips": "Restricted area ($500 permit). Respect Bon tradition.",
+        "price": 3200,
+        "groupSize": "2-10",
+        "included": [
+            "Special Permits",
+            "Camping Crew",
+            "All Meals",
+            "Flights"
+        ],
+        "excluded": [
+            "Tips",
+            "Personal Gear"
+        ],
+        "featuredImage": "/images/trek-manaslu.jpg",
+        "rating": 4.9,
+        "reviews": 60,
+        "featured": false
+    },
+    {
+        "id": "tsum-valley-trek",
+        "name": "Tsum Valley Trek",
+        "slug": "tsum-valley-trek",
+        "category": "trekking",
+        "location": "Manaslu Region",
+        "duration": "14-17 days",
+        "difficulty": "Moderate",
+        "altitude": "3,700m (Mu Gompa)",
+        "overview": "Discover the 'Hidden Valley of Happiness'. Tsum Valley is a sacred Himalayan pilgrimage valley situated in northern Gorkha. Known for its ancient monasteries, friendly people, and non-violent culture.",
+        "highlights": [
+            "Mu Gompa and Rachen Gompa",
+            "Milarepa's Cave",
+            "Views of Ganesh Himal and Manaslu",
+            "Unique Tsumba culture",
+            "Non-violent zone (no animal slaughter)"
+        ],
+        "detailedDescription": "Tsum Valley was a restricted area until 2008. The valley is rich in ancient art, culture, and religion. The trails are adorned with artistic chortens and mani walls. The local people, Tsumbas, have their own dialect and unique traditions. You'll visit centuries-old monasteries like Mu Gompa and Rachen Gompa, where monks and nuns reside. The valley offers spectacular views of the Ganesh Himal range.",
+        "bestTimeToVisit": "March-May and September-November.",
+        "whatToBring": [
+            "Sleeping bag",
+            "Warm clothes"
+        ],
+        "thingsToDo": [
+            "Meditation",
+            "Monastery visits",
+            "Cave exploration"
+        ],
+        "accommodation": "Teahouses/Homestays",
+        "transportation": "Bus/Jeep to Soti Khola",
+        "localCuisine": "Vegetarian (mostly), local potatoes",
+        "culturalTips": "Strictly no hunting or fishing.",
+        "price": 1100,
+        "groupSize": "2-10",
+        "included": [
+            "Permits",
+            "Guide",
+            "Porter",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Tips",
+            "Drinks"
+        ],
+        "featuredImage": "/images/trek-manaslu.jpg",
+        "rating": 4.7,
+        "reviews": 90,
+        "featured": false
+    },
+    {
+        "id": "ama-dablam-expedition",
+        "name": "Ama Dablam Expedition",
+        "slug": "ama-dablam-expedition",
+        "category": "expeditions",
+        "location": "Khumbu Region",
+        "duration": "25-30 days",
+        "difficulty": "Technical",
+        "altitude": "6,812m",
+        "overview": "Ama Dablam is often called the 'Matterhorn of the Himalayas'. It is one of the most beautiful and technical mountains to climb. This expedition is for experienced climbers looking for a serious challenge on rock, ice, and snow.",
+        "highlights": [
+            "Summit one of the world's most beautiful peaks",
+            "Technical climbing on rock and ice",
+            "Spectacular exposed ridges",
+            "Views of Everest, Lhotse, Makalu",
+            "Camp 1 and Camp 2 experience"
+        ],
+        "detailedDescription": "Ama Dablam requires technical climbing skills. The route involves steep rock climbing, ice climbing, and scrambling on exposed ridges. The climb is typically done from the Southwest Ridge. Camp 1 is at 5,700m, Camp 2 at 5,900m (on a narrow rock ledge), and Camp 3 at 6,300m (on a hanging glacier). The summit push is steep and demanding but rewards climbers with arguably the finest viewpoint in the Khumbu.",
+        "bestTimeToVisit": "October-November (best) and April-May.",
+        "whatToBring": [
+            "Full technical climbing gear",
+            "Expedition suit"
+        ],
+        "thingsToDo": [
+            "Technical climbing",
+            "High altitude camping"
+        ],
+        "accommodation": "Camping",
+        "transportation": "Flight to Lukla",
+        "localCuisine": "Expedition food",
+        "culturalTips": "Puja ceremony before climbing is mandatory.",
+        "price": 5500,
+        "groupSize": "2-8",
+        "included": [
+            "Permits",
+            "Expedition Leader",
+            "Sherpa Support",
+            "Base Camp Services",
+            "High Camp Food/Tents"
+        ],
+        "excluded": [
+            "Summit Bonus",
+            "Personal Gear",
+            "Travel Insurance"
+        ],
+        "featuredImage": "/images/hero-everest.jpg",
+        "rating": 5.0,
+        "reviews": 45,
+        "featured": true
+    },
+    {
+        "id": "kanchenjunga-base-camp-trek",
+        "name": "Kanchenjunga Base Camp Trek",
+        "slug": "kanchenjunga-base-camp-trek",
+        "category": "expeditions",
+        "location": "Kanchenjunga (Far East)",
+        "duration": "20-24 days",
+        "difficulty": "Challenging",
+        "altitude": "5,143m (North Base Camp)",
+        "overview": "Trek to the base of the world's third highest mountain, Kanchenjunga (8,586m). This remote trek in eastern Nepal explores both the North and South Base Camps, offering pristine wilderness and diverse flora.",
+        "highlights": [
+            "Views of Kanchenjunga and Jannu Himal",
+            "Visit both North and South Base Camps",
+            "Rich biodiversity (Red Panda, Snow Leopard)",
+            "Remote Limbu and Sherpa villages",
+            "Off-the-beaten-path experience"
+        ],
+        "detailedDescription": "The Kanchenjunga region is a restricted area that sees few trekkers. The trail passes through the Kanchenjunga Conservation Area, known for its rhododendron forests and wildlife. You'll visit the North Base Camp (Pangpema) for views of the massive North Face, and the South Base Camp (Oktang) for views of the Yalung Glacier. It's a long, strenuous trek that rewards with solitude and grandeur.",
+        "bestTimeToVisit": "March-May and October-November.",
+        "whatToBring": [
+            "Camping/Trekking gear",
+            "Warm clothes"
+        ],
+        "thingsToDo": [
+            "Base Camp exploration",
+            "Wildlife spotting"
+        ],
+        "accommodation": "Teahouses (basic) / Camping",
+        "transportation": "Flight to Bhadrapur/Suketar",
+        "localCuisine": "Local Nepali/Tibetan",
+        "culturalTips": "Restricted area permit required.",
+        "price": 1800,
+        "groupSize": "2-10",
+        "included": [
+            "Permits",
+            "Guide",
+            "Porter",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/hero-everest.jpg",
+        "rating": 4.8,
+        "reviews": 55,
+        "featured": false
+    },
+    {
+        "id": "makalu-base-camp-trek",
+        "name": "Makalu Base Camp Trek",
+        "slug": "makalu-base-camp-trek",
+        "category": "expeditions",
+        "location": "Makalu Region",
+        "duration": "18-20 days",
+        "difficulty": "Challenging",
+        "altitude": "4,870m",
+        "overview": "A journey to the base of the world's 5th highest peak, Makalu (8,481m). This trek takes you deep into the Makalu Barun National Park, a place of spectacular high-altitude scenery and rich biodiversity.",
+        "highlights": [
+            "Close-up view of Makalu and Everest (Kangshung face)",
+            "Barun Valley (hanging glaciers and waterfalls)",
+            "Rare wildlife and orchids",
+            "Shipton La Pass (4,216m)",
+            "Remote and unspoiled trail"
+        ],
+        "detailedDescription": "The trek begins from the lush lowlands of Tumlingtar and ascends into the high Himalayas. You'll cross the Shipton La pass into the remote Barun Valley, a sanctuary of pristine forests and alpine meadows. Makalu Base Camp offers a stunning amphitheater of peaks. It is a rugged trek for those seeking solitude and raw nature.",
+        "bestTimeToVisit": "April-May and October-November.",
+        "whatToBring": [
+            "Camping/Trekking gear"
+        ],
+        "thingsToDo": [
+            "Nature photography",
+            "Pass crossing"
+        ],
+        "accommodation": "Teahouses (very basic) / Camping",
+        "transportation": "Flight to Tumlingtar",
+        "localCuisine": "Local simple food",
+        "culturalTips": "National Park rules apply.",
+        "price": 1600,
+        "groupSize": "2-10",
+        "included": [
+            "Permits",
+            "Guide",
+            "Porter",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/hero-everest.jpg",
+        "rating": 4.7,
+        "reviews": 40,
+        "featured": false
+    },
+    {
+        "id": "lobuche-east-peak-climbing",
+        "name": "Lobuche East Peak Climbing",
+        "slug": "lobuche-east-peak-climbing",
+        "category": "peak-climbing",
+        "location": "Khumbu Region",
+        "duration": "18-20 days",
+        "difficulty": "Strenuous",
+        "altitude": "6,119m",
+        "overview": "Lobuche East is a popular trekking peak that offers a slightly more technical challenge than Island Peak. It provides stunning views of Everest, Lhotse, Nuptse, and Ama Dablam.",
+        "highlights": [
+            "Summit a 6,000m peak",
+            "Views of Everest and Khumbu Glacier",
+            "Technical ridge climbing",
+            "Combine with EBC trek",
+            "High Camp experience"
+        ],
+        "detailedDescription": "The climb involves a trek to Everest Base Camp for acclimatization. From Lobuche village, you ascend to High Camp near a glacial lake. The summit day involves climbing on snow and ice (45-50 degrees) and a final ridge walk. The summit offers one of the best views of Everest in the region.",
+        "bestTimeToVisit": "April-May and October-November.",
+        "whatToBring": [
+            "Climbing gear",
+            "Warm clothes"
+        ],
+        "thingsToDo": [
+            "Summit climb",
+            "Glacier travel"
+        ],
+        "accommodation": "Teahouses + Tented Camp",
+        "transportation": "Flight to Lukla",
+        "localCuisine": "Sherpa food",
+        "culturalTips": "Respect the mountain.",
+        "price": 2500,
+        "groupSize": "2-8",
+        "included": [
+            "Permits",
+            "Climbing Guide",
+            "Tents",
+            "Meals",
+            "Accommodation"
+        ],
+        "excluded": [
+            "Personal Gear",
+            "Tips",
+            "Insurance"
+        ],
+        "featuredImage": "/images/hero-everest.jpg",
+        "rating": 4.8,
+        "reviews": 75,
+        "featured": false
+    }
+]
